@@ -1,0 +1,19 @@
+C:\Users\krawl\OneDrive\fall session 2\c#\BoutilierLab4\BoutilierLab4\BoutilierLab4\bin\Debug\BoutilierLab4.exe.config
+C:\Users\krawl\OneDrive\fall session 2\c#\BoutilierLab4\BoutilierLab4\BoutilierLab4\bin\Debug\BoutilierLab4.exe
+C:\Users\krawl\OneDrive\fall session 2\c#\BoutilierLab4\BoutilierLab4\BoutilierLab4\bin\Debug\BoutilierLab4.pdb
+C:\Users\krawl\OneDrive\fall session 2\c#\BoutilierLab4\BoutilierLab4\BoutilierLab4\obj\Debug\BoutilierLab4.csproj.AssemblyReference.cache
+C:\Users\krawl\OneDrive\fall session 2\c#\BoutilierLab4\BoutilierLab4\BoutilierLab4\obj\Debug\BoutilierLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\krawl\OneDrive\fall session 2\c#\BoutilierLab4\BoutilierLab4\BoutilierLab4\obj\Debug\BoutilierLab4.Form1.resources
+C:\Users\krawl\OneDrive\fall session 2\c#\BoutilierLab4\BoutilierLab4\BoutilierLab4\obj\Debug\BoutilierLab4.Properties.Resources.resources
+C:\Users\krawl\OneDrive\fall session 2\c#\BoutilierLab4\BoutilierLab4\BoutilierLab4\obj\Debug\BoutilierLab4.csproj.GenerateResource.cache
+C:\Users\krawl\OneDrive\fall session 2\c#\BoutilierLab4\BoutilierLab4\BoutilierLab4\obj\Debug\BoutilierLab4.csproj.CoreCompileInputs.cache
+C:\Users\krawl\OneDrive\fall session 2\c#\BoutilierLab4\BoutilierLab4\BoutilierLab4\obj\Debug\BoutilierLab4.exe
+C:\Users\krawl\OneDrive\fall session 2\c#\BoutilierLab4\BoutilierLab4\BoutilierLab4\obj\Debug\BoutilierLab4.pdb
+C:\Users\krawl\OneDrive\Desktop\michem-main (2)\michem-main\BoutilierLab4\BoutilierLab4\obj\Debug\BoutilierLab4.csproj.AssemblyReference.cache
+C:\Users\krawl\OneDrive\Desktop\michem-main (2)\michem-main\BoutilierLab4\BoutilierLab4\obj\Debug\BoutilierLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\krawl\OneDrive\Desktop\michem-main (2)\michem-main\BoutilierLab4\BoutilierLab4\obj\Debug\BoutilierLab4.Form1.resources
+C:\Users\krawl\OneDrive\Desktop\michem-main (2)\michem-main\BoutilierLab4\BoutilierLab4\obj\Debug\BoutilierLab4.Properties.Resources.resources
+C:\Users\krawl\OneDrive\Desktop\michem-main (2)\michem-main\BoutilierLab4\BoutilierLab4\obj\Debug\BoutilierLab4.csproj.GenerateResource.cache
+C:\Users\krawl\OneDrive\Desktop\michem-main (2)\michem-main\BoutilierLab4\BoutilierLab4\obj\Debug\BoutilierLab4.csproj.CoreCompileInputs.cache
+C:\Users\krawl\OneDrive\Desktop\michem-main (2)\michem-main\BoutilierLab4\BoutilierLab4\obj\Debug\BoutilierLab4.exe
+C:\Users\krawl\OneDrive\Desktop\michem-main (2)\michem-main\BoutilierLab4\BoutilierLab4\obj\Debug\BoutilierLab4.pdb
